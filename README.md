@@ -1,2 +1,3 @@
-# MonthlyBudget
-Monthly Budget Template
+**# MonthlyBudget**
+## Monthly Budget Template
+
