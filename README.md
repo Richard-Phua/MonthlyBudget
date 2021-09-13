@@ -1,3 +1,3 @@
-**# MonthlyBudget**
+# MonthlyBudget
 ## Monthly Budget Template
 
